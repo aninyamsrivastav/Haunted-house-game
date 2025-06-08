@@ -1,4 +1,4 @@
-# 🏚️ Haunted House Game
+# 🏚️ Haunted House Game!
 
 A simple, spooky, text-based Python game where your choices decide your fate!
 
